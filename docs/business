@@ -1,0 +1,30 @@
+# All startups in India encouraging palm-reading ?
+1. AstroSage
+2. AstroTalk 
+3. 
+
+## Mounts and their Starting Positions : 
+Palmestry : 
+1. Jupiter : 16 
+2. Saturn : 
+3. Sun : 22
+4. Mercury : 32
+5. Venus : 25
+6. Moon : 24
+7. Mars : 28
+
+## // 1 time <Offline Job>
+for each page in source pdf:
+    figure out rules 
+        aggregate and refine those rules
+
+// Web Hooks for sending updates to UI
+https://github.com/yeonsumia/palmistry
+
+// Major Kaam
+1. OpenCV
+    1. lines <all>
+    2. kitni lambi hai 
+    3. kya orientation hai <Tilted at some theta>
+    4. 
+
